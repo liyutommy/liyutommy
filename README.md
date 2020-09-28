@@ -7,8 +7,8 @@
 - :school: I’m a senior computer science student at University of Colorado Boulder.
 - :books: I’m currently learning Typescript, React and Perl.
 - :globe_with_meridians: I'm interested in web programming and development.
-- :speech_balloon: Ask me about anything; I'm happy to help
-- :mailbox_with_mail: Please email via liyutommy@outlook.com
+- :speech_balloon: Ask me about anything; I'm happy to help.
+- :mailbox_with_mail: Please email via liyutommy@outlook.com.
 
 #### **Languages and Tools:**
 
