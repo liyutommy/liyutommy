@@ -26,7 +26,7 @@
 
 ![Yu's github stats](https://github-readme-stats.vercel.app/api?username=liyutommy&count_private=true&show_icons=true&theme=vue-dark)
 
-![Yu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liyutommy&hide_title=true&hide_border=true&langs_count=5)
+
 
 
 
