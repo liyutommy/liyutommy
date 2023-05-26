@@ -1,6 +1,6 @@
 # Hey there
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile!;I+am+a+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&size=25&pause=1000&color=5D7BF7&width=435&lines=I'm+a+web+developer;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m Yu
@@ -41,9 +41,11 @@
 
 
 
-## Weekly Development Breakdown
+## Language Usage Info
 
-![Yu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liyutommy&hide_title=true&hide_border=true&langs_count=5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyutommy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
